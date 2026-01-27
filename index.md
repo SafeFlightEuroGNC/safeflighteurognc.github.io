@@ -29,7 +29,7 @@ The workshop brings together leading researchers and practitioners from control 
 The main objectives of the tutorial workshop are to:
 
 - **Provide an educational foundation** on Control Barrier Functions and High-Order CBFs, with emphasis on safety-critical aerospace applications.
-- **Equip participants with practical insights** into the design, implementation, and analysis of CBF-based controllers for problems such as flight envelope protection, collision avoidance, and constrained autonomy.
+- **Equip participants with practical insights** into the design, implementation, and analysis of CBF-based controllers for constrained guidance and control problems.
 - **Highlight open challenges** related to uncertainty, actuator limitations, scalability, and certification.
 - **Foster community building** by bringing together control theorists, aerospace engineers, and industry practitioners.
 
@@ -37,41 +37,25 @@ The workshop is intended for graduate students, researchers, and engineers worki
 
 ---
 
-## Topics Covered
+## Topics and Program Overview
 
-Topics include, but are not limited to:
+The workshop program combines foundational theory with application-oriented perspectives on Control Barrier Functions in aerospace. Invited lectures address both methodological developments and practical case studies, including:
 
-- Foundations of Control Barrier Functions and High-Order CBFs  
-- Convex and optimization-based CBF design  
-- Flight envelope protection and safety filtering  
-- Collision avoidance and multi-agent systems  
-- Integration of CBFs with MPC, adaptive control, and reinforcement learning  
-- Handling uncertainty, actuator limits, and sensing imperfections  
-- Simulation-based and experimental aerospace case studies  
+- Core concepts and theoretical foundations of Control Barrier Functions and High-Order CBFs  
+- Systematic design of barrier functions using optimization-based approaches  
+- Safety-critical flight control applications such as flight envelope protection and collision avoidance  
+- Multi-vehicle and distributed control architectures  
+- Constraint enforcement under uncertainty and actuator limitations  
+- Simulation-based and software-supported validation of constrained control methods  
 
----
-
-## Program Highlights
-
-The full-day tutorial features invited lectures by internationally recognized experts, covering both theory and applications, including:
-
-- Foundational CBF theory and design methodologies  
-- Scalable safe control and learning-based approaches  
-- Convex optimization and sum-of-squares methods for CBF design  
-- Safety-critical cooperative guidance for multi-UAV systems  
-- Adaptive, sensor-based, and uncertainty-aware safety filters  
-- Software ecosystems for testing and deploying constrained controllers  
-
-The workshop concludes with a **panel discussion** on future directions for Control Barrier Functions in aerospace guidance, navigation, and control.
-
-A detailed program and speaker list is provided on the **Program** page.
+The program concludes with a panel discussion highlighting open challenges and future directions for Control Barrier Functions in aerospace guidance, navigation, and control. A detailed schedule and speaker information are available on the **Program** page.
 
 ---
 
 ## Organization and Contact
 
-**Organizer:**  
-Johannes Autenrieb  
-German Aerospace Center (DLR)
+For questions related to the organization of the workshop, please contact:
 
-For questions regarding the workshop, please contact the organizer directly.
+**Johannes Autenrieb**  
+German Aerospace Center (DLR)
+johannes.autenrieb@dlr.de
