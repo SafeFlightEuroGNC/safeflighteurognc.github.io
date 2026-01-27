@@ -1,3 +1,11 @@
+---
+title: Home
+---
+
+# Control Barrier Functions in Aerospace Applications
+
+{% include figure.html img="WorkshopTitleImage.png" alt="Control Barrier Functions in Aerospace Applications" width="80%" %}
+
 ## Control Barrier Functions in Aerospace  
 ### From Foundations to Real-World Applications
 
@@ -71,5 +79,3 @@ Johannes Autenrieb
 German Aerospace Center (DLR)
 
 For questions regarding the workshop, please contact the organizer directly.
-
----
