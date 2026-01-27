@@ -15,11 +15,11 @@ keywords: "workshops, OER, Open Education, websites, gh-pages, jekyll"
 
 # author settings for cc-by, appears in the footer
 author: 
-pub_year: 2018
-github_username: safeflighteurognc
+pub_year: 
+github_username: 
 
 # add the full url for the github repository
-repo: "https://github.com/SafeFlightEuroGNC/safeflighteurognc.github.io"
+repo: 
 
 # site urls
 # Optional if using GitHub Pages! If building manually, these must be set correctly.
