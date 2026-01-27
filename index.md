@@ -2,14 +2,10 @@
 title: Home
 ---
 
-# Control Barrier Functions in Aerospace Applications
+# Control Barrier Functions in Aerospace Applications: From Foundations to Real-World Applications
+## Pre-Conference Tutorial Workshop at CEAS EuroGNC 2026
 
 {% include figure.html img="WorkshopTitleImage.png" alt="Control Barrier Functions in Aerospace Applications" width="80%" %}
-
-## Control Barrier Functions in Aerospace  
-### From Foundations to Real-World Applications
-
-**Pre-Conference Tutorial Workshop at CEAS EuroGNC 2026**
 
 Control Barrier Functions (CBFs) have emerged as a powerful framework for enforcing safety and state constraints in control systems, offering rigorous guarantees on constraint satisfaction and forward invariance. While CBF-based methods are now well established in the control theory community, their systematic adoption in aerospace applications remains limited, despite clear relevance to problems such as flight envelope protection, geofencing, collision avoidance, and autonomous flight.
 
