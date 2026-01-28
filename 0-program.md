@@ -4,71 +4,71 @@ nav: true
 ---
 
 # Workshop Program
+
+{% include figure.html img="EuroGNC_Workshop_Schedule.png" alt="Workshop schedule overview" width="95%" %}
+
 ## Pre-Conference Tutorial Workshop  
 **Control Barrier Functions in Aerospace: From Foundations to Real-World Applications**
 
 **Date:** May 4, 2026  
-**Time:** 08:50–18:30 CEST  
+**Core Workshop Time:** 09:00–18:00 CEST  
 **Location:** Universidad Carlos III de Madrid, Madrid, Spain  
 **Format:** Hybrid (in-person & virtual)
 
-
-{% include figure.html img="EuroGNC_Workshop_Schedule.png" alt="Workshop schedule overview" width="95%" %}
+*The schedule below is aligned with the official EuroGNC time slots for coffee breaks and lunch. The concluding panel discussion may extend slightly beyond 18:00.*
 
 ---
 
 ## Tentative Schedule
 
-- **08:50–09:00** — Welcome & Opening Remarks  
+- **09:00–09:10** — Welcome & Opening Remarks  
 
-- **09:00–09:45**  
+- **09:10–09:55**  
   **Control Barrier Functions: Theory Overview and How to Design Them Using Dynamic Safety Margins**  
   *Victor Freire, Marco Nicotra* — University of Colorado Boulder
 
-- **09:45–10:30**  
+- **09:55–10:40**  
   **Scalable Safe Control Design: Recent Advances and Open Challenges**  
   *Kunal Garg* — Arizona State University
 
-- **10:30–10:50** — Coffee Break  
-
-- **10:50–11:35**  
+- **10:40–11:25**  
   **Designing Control Barrier Functions with Convex Optimisation**  
   *Han Wang, Kostas Margellos, Antonis Papachristodoulou* — ETH Zurich & University of Oxford
 
-- **11:35–12:20**  
+- **11:25–12:10**  
   **Safety-Critical Multi-UAV Cooperative Guidance via Distributed MPC and Control Barrier Functions**  
   *Hyo-Sang Shin* — KAIST / Cranfield University
 
-- **12:20–13:20** — Lunch Break  
-
-- **13:20–14:05**  
+- **12:10–13:00**  
   **Safe GNC Design to Handle Polytopic Obstacles, Pointing Constraints, and Other Spacecraft**  
   *Daniel Silvestre* — NOVA University Lisbon
 
-- **14:05–14:50**  
+- **13:00–14:00** — **Lunch Break**  
+
+- **14:00–14:45**  
   **Safe Reinforcement Learning with Guarantees: Recent Advances for Continuous-Time and Discrete-Time Nonlinear Systems**  
   *Mayank Shekhar* — Université de Lorraine / CRAN
 
-- **14:50–15:10** — Coffee Break  
-
-- **15:10–15:55**  
+- **14:45–15:30**  
   **Anti-Windup and Control Barrier Functions**  
   *Laurent Burlion* — Rutgers University
 
-- **15:55–16:40**  
+- **15:30–16:00** — **Afternoon Coffee Break**  
+
+- **16:00–16:45**  
   **Enforcing Safety under Uncertainty: Control Barrier Functions for Adaptive and Sensor-Based Flight Control Systems**  
   *Johannes Autenrieb* — German Aerospace Center (DLR)
 
-- **16:40–17:00** — Coffee Break  
-
-- **17:00–17:45**  
+- **16:45–17:30**  
   **From Simulation to Flight: An Ecosystem to Program, Test, and Tune Advanced Control Systems for UAVs**  
   *Andrea L’Afflitto* — Virginia Tech
 
-- **17:45–18:30**  
+- **17:30–18:15**  
   **Panel Discussion: Future Directions for Control Barrier Functions in Aerospace GNC**  
   *Moderator:* To be determined  
-  *Panelists:* To be determined (academia & industry)
+  *Panelists:* Academia & industry
+
+*Registration for the conference runs in parallel from 17:30 onward.*
 
 ---
 
@@ -137,6 +137,6 @@ An open-source ecosystem for programming, testing, and tuning advanced UAV contr
 
 ---
 
-### Panel Discussion: Future Directions for CBFs in Aerospace GNC
+### Panel Discussion: Future Directions for Control Barrier Functions in Aerospace GNC
 
 The workshop concludes with a moderated panel discussion synthesizing the day’s contributions. The panel will address open challenges in theory, implementation, and certification, and discuss future research and adoption pathways for Control Barrier Functions in aerospace guidance, navigation, and control.
