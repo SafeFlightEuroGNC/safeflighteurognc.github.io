@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# Control Barrier Functions in Aerospace Applications: From Foundations to Real-World Applications
+# Control Barrier Functions in Aerospace: From Foundations to Real-World Applications
 ## Pre-Conference Tutorial Workshop at CEAS EuroGNC 2026
 
 {% include figure.html img="WorkshopTitleImage.png" alt="Control Barrier Functions in Aerospace Applications" width="80%" %}
