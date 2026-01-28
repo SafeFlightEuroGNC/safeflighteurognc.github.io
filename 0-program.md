@@ -4,9 +4,6 @@ nav: true
 ---
 
 # Workshop Program
-
-{% include figure.html img="EuroGNC_Workshop_Schedule.png" alt="Workshop schedule overview" width="95%" %}
-
 ## Pre-Conference Tutorial Workshop  
 **Control Barrier Functions in Aerospace: From Foundations to Real-World Applications**
 
@@ -14,6 +11,8 @@ nav: true
 **Core Workshop Time:** 09:00–18:00 CEST  
 **Location:** Universidad Carlos III de Madrid, Madrid, Spain  
 **Format:** Hybrid (in-person & virtual)
+
+{% include figure.html img="EuroGNC_Workshop_Schedule.png" alt="Workshop schedule overview" width="95%" %}
 
 *The schedule below is aligned with the official EuroGNC time slots for coffee breaks and lunch. The concluding panel discussion may extend slightly beyond 18:00.*
 
