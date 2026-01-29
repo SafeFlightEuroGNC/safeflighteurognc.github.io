@@ -18,9 +18,14 @@
 }
 
 .speaker-card {
-  border: 1px solid #ddd;
   padding: 1rem 0.8rem;
   text-align: center;
-  background-color: transparent;
   font-size: 0.95rem;
+  border: 1px solid transparent;
+  background-color: transparent;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.speaker-card:hover {
+  border-color: #d0d0d0;
 }
