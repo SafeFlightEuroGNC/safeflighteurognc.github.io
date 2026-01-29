@@ -69,7 +69,7 @@ nav: true
     </tr>
 
 
-    <tr class="social">
+    <tr class="registration">
       <td>19:00 – 21:00</td>
       <td>Welcome Cocktail</td>
     </tr>
