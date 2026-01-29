@@ -29,3 +29,63 @@
 .speaker-card:hover {
   border-color: #d0d0d0;
 }
+
+/* Workshop schedule */
+
+.schedule-header {
+  margin: 2rem 0 1rem 0;
+}
+
+.schedule-header h2 {
+  margin-bottom: 0.2rem;
+}
+
+.schedule-header p {
+  margin-top: 0;
+  color: $grey-color-dark;
+}
+
+.workshop-schedule {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.95rem;
+}
+
+.workshop-schedule th,
+.workshop-schedule td {
+  padding: 0.6rem 0.7rem;
+  border: 1px solid $grey-color-light;
+  vertical-align: middle;
+}
+
+.workshop-schedule th {
+  background-color: #f2f6fb;
+  font-weight: 600;
+}
+
+.workshop-schedule td:first-child {
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+/* Highlighted rows */
+.workshop-schedule tr.coffee td {
+  background-color: #f9f9f9;
+  font-style: italic;
+}
+
+.workshop-schedule tr.lunch td {
+  background-color: #eef6ee;
+  font-style: italic;
+}
+
+.workshop-schedule tr.registration td {
+  background-color: #fff3e6;
+  font-weight: 600;
+}
+
+.workshop-schedule tr.social td {
+  background-color: #f0f4ff;
+  font-weight: 600;
+}
