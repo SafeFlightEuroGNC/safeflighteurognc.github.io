@@ -14,13 +14,13 @@ nav: true
 
 *The schedule below is aligned with the official EuroGNC time slots for coffee breaks and lunch. The concluding panel discussion may extend slightly beyond 18:00.*
 
-<div class="schedule-header">
-  <h2>Pre-Conference Tutorial Workshop</h2>
-  <p><strong>Monday, May 4, 2026 · CEAS EuroGNC 2026 · Madrid</strong></p>
-</div>
-
 <table class="workshop-schedule">
   <thead>
+    <tr class="schedule-title">
+      <th colspan="2">
+        Workshop Schedule
+      </th>
+    </tr>
     <tr>
       <th style="width: 20%;">Time</th>
       <th>Session</th>
