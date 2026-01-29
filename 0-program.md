@@ -71,7 +71,7 @@ nav: true
 
     <tr class="registration">
       <td>19:00 – 21:00</td>
-      <td>Welcome Cocktail</td>
+      <td>EuroGNC Welcome Reception</td>
     </tr>
   </tbody>
 </table>
