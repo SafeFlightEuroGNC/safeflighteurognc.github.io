@@ -12,8 +12,6 @@ nav: true
 **Location:** Universidad Carlos III de Madrid, Madrid, Spain  
 **Format:** Hybrid (in-person & virtual)
 
-*The schedule below is aligned with the official EuroGNC time slots for coffee breaks and lunch. The concluding panel discussion may extend slightly beyond 18:00.*
-
 <table class="workshop-schedule">
   <thead>
     <tr class="schedule-title">
