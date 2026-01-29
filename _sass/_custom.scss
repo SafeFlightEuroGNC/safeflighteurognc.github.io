@@ -8,3 +8,19 @@
     text-decoration: underline;
     color: $active-color;
 }
+
+/* Speaker grid */
+.speaker-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* two columns */
+  gap: 1.2rem;
+  margin-top: 1.5rem;
+}
+
+.speaker-card {
+  border: 1px solid #ddd;
+  padding: 1rem 0.8rem;
+  text-align: center;
+  background-color: #fafafa;
+  font-size: 0.95rem;
+}
