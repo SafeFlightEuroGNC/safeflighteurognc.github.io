@@ -16,7 +16,7 @@ nav: true
 
 <table class="workshop-schedule">
   <thead>
-    <tr class="coffee">
+    <tr class="schedule-title">
       <th colspan="2">
         Workshop Schedule
       </th>
