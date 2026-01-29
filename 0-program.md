@@ -16,7 +16,7 @@ nav: true
 
 <table class="workshop-schedule">
   <thead>
-    <tr class="schedule-title">
+    <tr class="coffee">
       <th colspan="2">
         Workshop Schedule
       </th>
@@ -64,14 +64,10 @@ nav: true
     </tr>
 
     <tr>
-      <td>16:00 – 18:00</td>
+      <td>16:00 – 18:15</td>
       <td>Invited Tutorial Lectures & Panel Discussion</td>
     </tr>
 
-    <tr class="registration">
-      <td>17:30 – 19:30</td>
-      <td>Conference Registration</td>
-    </tr>
 
     <tr class="social">
       <td>19:00 – 21:00</td>
