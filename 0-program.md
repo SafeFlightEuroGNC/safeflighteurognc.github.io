@@ -77,8 +77,6 @@ nav: true
 </table>
 
 
-{% include figure.html img="EuroGNC_Workshop_Schedule.png" alt="Workshop schedule overview" width="95%" %}
-
 ---
 
 ## Tentative Schedule
