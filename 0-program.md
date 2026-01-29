@@ -14,6 +14,73 @@ nav: true
 
 *The schedule below is aligned with the official EuroGNC time slots for coffee breaks and lunch. The concluding panel discussion may extend slightly beyond 18:00.*
 
+<div class="schedule-header">
+  <h2>Pre-Conference Tutorial Workshop</h2>
+  <p><strong>Monday, May 4, 2026 · CEAS EuroGNC 2026 · Madrid</strong></p>
+</div>
+
+<table class="workshop-schedule">
+  <thead>
+    <tr>
+      <th style="width: 20%;">Time</th>
+      <th>Session</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr class="coffee">
+      <td>08:30 – 09:00</td>
+      <td>Morning Coffee & Arrival</td>
+    </tr>
+
+    <tr>
+      <td>09:00 – 10:30</td>
+      <td>Invited Tutorial Lectures (Session I)</td>
+    </tr>
+
+    <tr class="coffee">
+      <td>10:30 – 11:00</td>
+      <td>Coffee Break</td>
+    </tr>
+
+    <tr>
+      <td>11:00 – 13:00</td>
+      <td>Invited Tutorial Lectures (Session II)</td>
+    </tr>
+
+    <tr class="lunch">
+      <td>13:00 – 14:00</td>
+      <td>Lunch Break</td>
+    </tr>
+
+    <tr>
+      <td>14:00 – 15:30</td>
+      <td>Invited Tutorial Lectures (Session III)</td>
+    </tr>
+
+    <tr class="coffee">
+      <td>15:30 – 16:00</td>
+      <td>Afternoon Coffee</td>
+    </tr>
+
+    <tr>
+      <td>16:00 – 18:00</td>
+      <td>Invited Tutorial Lectures & Panel Discussion</td>
+    </tr>
+
+    <tr class="registration">
+      <td>17:30 – 19:30</td>
+      <td>Conference Registration</td>
+    </tr>
+
+    <tr class="social">
+      <td>19:00 – 21:00</td>
+      <td>Welcome Cocktail</td>
+    </tr>
+  </tbody>
+</table>
+
+
 {% include figure.html img="EuroGNC_Workshop_Schedule.png" alt="Workshop schedule overview" width="95%" %}
 
 ---
