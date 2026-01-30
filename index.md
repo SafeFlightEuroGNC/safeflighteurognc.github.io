@@ -3,7 +3,7 @@ title: Home
 ---
 
 # Control Barrier Functions in Aerospace: From Foundations to Real-World Applications
-## Pre-Conference Tutorial Workshop at CEAS EuroGNC 2026
+## Pre-Conference Tutorial Workshop at CEAS EuroGNC 2026 in Madrid, Spain 
 
 Control Barrier Functions (CBFs) have emerged as a powerful framework for enforcing safety and state constraints in control systems, offering rigorous guarantees on constraint satisfaction and forward invariance. While CBF-based methods are now well established in the control theory community, their systematic adoption in aerospace applications remains limited, despite clear relevance to problems such as flight envelope protection, geofencing, collision avoidance, and autonomy.
 
@@ -17,7 +17,7 @@ The workshop brings together leading researchers and practitioners from control 
 
 - **Date:** May 4, 2026  
 - **Time:** 09:00–18:15 CEST  
-- **Location:** Universidad Carlos III de Madrid, Madrid, Spain  
+- **Location:** Universidad Carlos III de Madrid  
 - **Format:** Hybrid (in-person and virtual participation)
 
 ---
