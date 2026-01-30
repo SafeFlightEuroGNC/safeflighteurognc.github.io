@@ -9,7 +9,7 @@ nav: true
 
 **Date:** May 4, 2026  
 **Core Workshop Time:** 09:00–18:00 CEST  
-**Location:** Universidad Carlos III de Madrid, Madrid, Spain  
+**Location:** Universidad Carlos III de Madrid  
 **Format:** Hybrid (in-person & virtual)
 
 <table class="workshop-schedule">
