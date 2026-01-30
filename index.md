@@ -16,7 +16,7 @@ The workshop brings together leading researchers and practitioners from control 
 ## Workshop Details
 
 - **Date:** May 4, 2026  
-- **Time:** 07:50–17:30 CEST  
+- **Time:** 09:00–18:15 CEST  
 - **Location:** Universidad Carlos III de Madrid, Madrid, Spain  
 - **Format:** Hybrid (in-person and virtual participation)
 
@@ -42,7 +42,7 @@ The workshop program combines foundational theory with application-oriented pers
 - Core concepts and theoretical foundations of Control Barrier Functions  
 - Systematic design of safety filters using optimization-based approaches  
 - Safety-critical flight and space system applications, including flight envelope protection and collision avoidance  
-- Safety for multi-vehicle and multi-agent systems in distributed control architectures  
+- Safety for multi-agent systems in distributed control architectures  
 - Constraint enforcement under uncertainty and actuator limitations  
 
 The program concludes with a panel discussion highlighting open challenges and future directions for Control Barrier Functions in aerospace guidance, navigation, and control.
