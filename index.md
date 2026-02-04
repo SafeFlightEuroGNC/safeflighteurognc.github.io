@@ -54,8 +54,12 @@ A detailed schedule and speaker information are available on the
 
 ## Organization and Contact
 
-For questions related to the organization of the workshop, please contact:
+For questions related to the tutorial workshop, please contact:
 
 **Johannes Autenrieb**  
 German Aerospace Center (DLR)  
 [johannes.autenrieb@dlr.de](johannes.autenrieb@dlr.de).
+
+For organizational questions, please contact the organizing committee and indicate in the subject line: *“EuroGNC26: Pre-conference Workshop – ”*.
+**EuroGNC 2026 Organizing Committee**  
+[eurognc26@uc3m.es](eurognc26@uc3m.es).
