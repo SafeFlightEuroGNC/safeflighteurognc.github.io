@@ -60,6 +60,7 @@ For questions related to the tutorial workshop, please contact:
 German Aerospace Center (DLR)  
 [johannes.autenrieb@dlr.de](johannes.autenrieb@dlr.de).
 
-For organizational questions, please contact the organizing committee and indicate in the subject line: *“EuroGNC26: Pre-conference Workshop – ”*.
+For organizational questions, please contact the organizing committee and indicate the following in the subject line: *“EuroGNC26: Pre-conference Workshop – ”*.
+
 **EuroGNC 2026 Organizing Committee**  
 [eurognc26@uc3m.es](eurognc26@uc3m.es).
