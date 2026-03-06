@@ -67,6 +67,16 @@ The tutorial workshop brings together leading researchers and practitioners from
 </div>
 
 <div class="speaker-card">
+  <strong>Peter A. Fisher</strong><br>
+  MIT
+</div>
+
+<div class="speaker-card">
+  <strong>Anuradha Annaswamy</strong><br>
+  MIT
+</div>
+
+<div class="speaker-card">
   <strong>Johannes Autenrieb</strong><br>
   German Aerospace Center (DLR)
 </div>
