@@ -78,7 +78,7 @@ The tutorial workshop brings together leading researchers and practitioners from
 
 <div class="speaker-card">
   <div class="speaker-photo-wrapper">
-    <img src="/images/Johannes Autenrieb_Small.png" alt="Johannes Autenrieb">
+    <img src="/images/Johannes Autenrieb_Small.jpg" alt="Johannes Autenrieb">
   </div>
 
   <div class="speaker-info">
