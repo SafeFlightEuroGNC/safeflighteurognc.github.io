@@ -182,7 +182,7 @@ This talk explores the integration of classical anti-windup schemes with Control
 ---
 
 ### Enforcing Safety under Uncertainty: CBFs for Adaptive and Sensor-Based Flight Control  
-**Johannes Autenrieb — German Aerospace Center (DLR)**
+**Johannes Autenrieb, Peter A. Fisher, Anuradha Annaswamy  — German Aerospace Center (DLR) & Massachusetts Institute of Technology (MIT)**
 
 This presentation focuses on enforcing safety constraints in aerospace systems operating under significant model uncertainty. Extensions of CBF frameworks are discussed, including integration with adaptive control architectures and sensor-based formulations. Case studies illustrate applications to overactuated and highly nonlinear flight systems.
 
