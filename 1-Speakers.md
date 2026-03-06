@@ -77,7 +77,7 @@ The tutorial workshop brings together leading researchers and practitioners from
 </div>
 
 <div class="speaker-card">
-   <img src="/images/Johannes.png" alt="Johannes Autenrieb" class="speaker-photo">
+   <img src="/images/Johannes Autenrieb_Small.png" alt="Johannes Autenrieb" class="speaker-photo">
   <strong>Johannes Autenrieb</strong><br>
   German Aerospace Center (DLR)
 </div>
