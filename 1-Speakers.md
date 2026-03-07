@@ -67,6 +67,14 @@ The tutorial workshop brings together leading researchers and practitioners from
 </div>
 
 <div class="speaker-card">
+  <strong>Mattia Gramuglia</strong><br>
+  Virginia Tech
+</div>
+
+
+
+
+<div class="speaker-card">
   <strong>Peter A. Fisher</strong><br>
   MIT
 </div>
