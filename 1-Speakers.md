@@ -22,8 +22,13 @@ The tutorial workshop brings together leading researchers and practitioners from
 </div>
 
 <div class="speaker-card">
-  <strong>Marco Nicotra</strong><br>
-  University of Colorado Boulder
+  <div class="speaker-photo-wrapper">
+    <img src="/images/nicotra.jpg" alt="Marco Nicotra">
+  </div>
+  <div class="speaker-info">
+    <strong>Marco Nicotra</strong><br>
+    University of Colorado Boulder
+  </div>
 </div>
 
 <div class="speaker-card">
@@ -87,13 +92,23 @@ The tutorial workshop brings together leading researchers and practitioners from
 </div>
 
 <div class="speaker-card">
-  <strong>Mayank Shekhar</strong><br>
-  Université de Lorraine / CRAN
+  <div class="speaker-photo-wrapper">
+    <img src="/images/mayank.png" alt="Mayank Shekhar">
+  </div>
+  <div class="speaker-info">
+    <strong>Mayank Shekhar Jha</strong><br>
+    Université de Lorraine / CRAN
+  </div>
 </div>
 
 <div class="speaker-card">
-  <strong>Laurent Burlion</strong><br>
-  Rutgers University
+  <div class="speaker-photo-wrapper">
+    <img src="/images/Burlion.png" alt="Laurent Burlion">
+  </div>
+  <div class="speaker-info">
+    <strong>Laurent Burlion</strong><br>
+    Rutgers University
+  </div>
 </div>
 
 <div class="speaker-card">
