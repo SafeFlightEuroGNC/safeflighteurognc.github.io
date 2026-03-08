@@ -11,12 +11,9 @@ Registration for the workshop must therefore be completed via the EuroGNC confer
 
 **Workshop Fee:** 125 EUR
 
-More information on conference registration and fees can be found here:  
-👉 <https://eurognc.ceas.org/registration-and-fees/>
+More information on conference registration and fees can be found here:  <https://eurognc.ceas.org/registration-and-fees/>
 
-Participants interested in attending the workshop should also consult the EuroGNC overview of pre-conference workshops:
-
-👉 <https://eurognc.ceas.org/pre-conference-workshops/>
+Participants interested in attending the workshop should also consult the EuroGNC overview of pre-conference workshops: <https://eurognc.ceas.org/pre-conference-workshops/>
 
 Please note that **participants must select one pre-conference workshop**, and the number of attendees per workshop is limited.
 
@@ -42,8 +39,7 @@ Students interested in potential funding opportunities are encouraged to **conta
 
 For any questions regarding registration, participation, or workshop organization, please contact the **EuroGNC 2026 Organizing Committee**.
 
-📧 **Email:**  
-[**eurognc26@uc3m.es**](mailto:eurognc26@uc3m.es)
+**Email:**   [**eurognc26@uc3m.es**](mailto:eurognc26@uc3m.es)
 
 When contacting the organizers, please include the following subject line:
 
