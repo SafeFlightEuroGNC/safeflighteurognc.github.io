@@ -137,6 +137,24 @@ nav: true
 
 This talk provides a concise overview of the theoretical foundations of Control Barrier Functions, including the assumptions required to guarantee safety and constraint satisfaction. It then demonstrates how CBFs can be used to design safe controllers in practice. Recognizing that constructing suitable barrier functions is often challenging, the talk introduces a design approach inspired by reference governor theory, combining dynamic safety margins with CBF-based enforcement. Simple illustrative examples, such as an inverted pendulum on a cart, are used throughout.
 
+**Key Publications**
+
+[1] A. D. Ames, X. Xu, J. W. Grizzle, and P. Tabuada,  
+"Control Barrier Function Based Quadratic Programs for Safety Critical Systems,"  
+*IEEE Transactions on Automatic Control*, 2017.
+
+[2] A. D. Ames, S. Coogan, M. Egerstedt, et al.,  
+"Control Barrier Functions: Theory and Applications,"  
+*European Control Conference*, 2019.
+
+**Software and Code**
+
+• Hybrid Robotics CBF Toolbox  
+https://github.com/HybridRobotics/cbf
+
+• MATLAB examples  
+https://github.com/HybridRobotics/cbf-examples
+
 ---
 
 ### Scalable Safe Control Design: Recent Advances and Open Challenges  
