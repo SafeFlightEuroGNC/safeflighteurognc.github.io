@@ -157,7 +157,7 @@ The tutorial workshop brings together leading researchers and practitioners from
   </div>
   <div class="speaker-info">
     <strong>Johannes Autenrieb</strong><br>
-    German Aerospace Center (DLR)
+    DLR
   </div>
 </div>
 
