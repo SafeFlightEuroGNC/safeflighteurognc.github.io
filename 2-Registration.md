@@ -12,11 +12,11 @@ Registration for the workshop must therefore be completed via the EuroGNC confer
 **Workshop Fee:** 125 EUR
 
 More information on conference registration and fees can be found here:  
-https://eurognc.ceas.org/registration-and-fees/
+👉 <https://eurognc.ceas.org/registration-and-fees/>
 
 Participants interested in attending the workshop should also consult the EuroGNC overview of pre-conference workshops:
 
-https://eurognc.ceas.org/pre-conference-workshops/
+👉 <https://eurognc.ceas.org/pre-conference-workshops/>
 
 Please note that **participants must select one pre-conference workshop**, and the number of attendees per workshop is limited.
 
@@ -28,13 +28,13 @@ The workshop is strongly education-oriented and particularly intended for **PhD 
 
 To support student participation, **limited funding opportunities may be available**, including:
 
-- Support through the **European Space Agency (ESA)**
+- **European Space Agency (ESA) Academy Student Sponsorship**
 - Potential sponsorship support from the **IEEE Control Systems Society (CSS)**
 - Potential support from **IFAC**
 
-These opportunities are currently being explored to help facilitate student attendance.
+These opportunities aim to facilitate participation of students and early-career researchers interested in safety-critical control methods for aerospace systems.
 
-Students interested in potential funding or participation support are encouraged to **contact the EuroGNC organizing committee early**.
+Students interested in potential funding opportunities are encouraged to **contact the EuroGNC organizing committee early**.
 
 ---
 
@@ -42,8 +42,8 @@ Students interested in potential funding or participation support are encouraged
 
 For any questions regarding registration, participation, or workshop organization, please contact the **EuroGNC 2026 Organizing Committee**.
 
-**Email:**  
-eurognc26@uc3m.es
+📧 **Email:**  
+[**eurognc26@uc3m.es**](mailto:eurognc26@uc3m.es)
 
 When contacting the organizers, please include the following subject line:
 
