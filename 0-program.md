@@ -115,7 +115,7 @@ nav: true
 
 - **16:00–16:45**  
   **Enforcing Safety under Uncertainty: Control Barrier Functions for Adaptive and Sensor-Based Flight Control Systems**  
-  *Johannes Autenrieb, Peter A. Fisher, Anuradha Annaswamy*  — German Aerospace Center (DLR) & Massachusetts Institute of Technology (MIT)*
+  *Johannes Autenrieb, Peter A. Fisher, Anuradha Annaswamy*  — German Aerospace Center (DLR) & Massachusetts Institute of Technology (MIT)
 
 - **16:45–17:30**  
   **From Simulation to Flight: An Ecosystem to Program, Test, and Tune Advanced Control Systems for UAVs**  
