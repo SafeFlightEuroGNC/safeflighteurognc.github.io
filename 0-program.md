@@ -245,11 +245,9 @@ An open-source ecosystem for programming, testing, and tuning advanced UAV contr
 
 **Software / Code**
 
-• FlightStack (UAV control software stack)  
-https://github.com/andrealaffly/ACSL-flightstack
+• [FlightStack (UAV control software stack)](https://github.com/andrealaffly/ACSL-flightstack)
 
-• UAV Simulator (PyChrono-based simulation framework)  
-https://github.com/andrealaffly/UAV_Sim_PyChrono
+• [UAV Simulator (PyChrono-based simulation framework)](https://github.com/andrealaffly/UAV_Sim_PyChrono)
 
 ---
 
