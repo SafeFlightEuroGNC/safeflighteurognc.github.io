@@ -239,7 +239,7 @@ An open-source ecosystem for programming, testing, and tuning advanced UAV contr
 
 **Recommended References**
 
-[1] M. Gramuglia, G. M. Kumar, and A. L'Afflitto, "[Two-Layer Adaptive Funnel MRAC with Applications to the Control of Multi-Rotor UAVs](https://doi.org/10.1109/RoMoCo60539.2024.10604361)," *International Workshop on Robot Motion and Control (RoMoCo)*, Poznań, Poland, pp. 31–36, 2024.
+[1] M. Gramuglia, G. M. Kumar, and A. L'Afflitto, "[Two-Layer Adaptive Funnel MRAC with Applications to the Control of Multi-Rotor UAVs](https://doi.org/10.1109/RoMoCo60539.2024.10604361)," *International Workshop on Robot Motion and Control (RoMoCo)*, Poznan, Poland, pp. 31–36, 2024.
 
 [2] M. Gramuglia and A. L'Afflitto, "[A Robust Multi-Constraint Funnel MRAC System With Applications to Autonomous Multi-Rotor UAVs Transporting Payloads Connected by Ropes](https://doi.org/10.2514/6.2026-2204)," *AIAA SciTech Forum*, 2026.
 
