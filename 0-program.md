@@ -137,23 +137,11 @@ nav: true
 
 This talk provides a concise overview of the theoretical foundations of Control Barrier Functions, including the assumptions required to guarantee safety and constraint satisfaction. It then demonstrates how CBFs can be used to design safe controllers in practice. Recognizing that constructing suitable barrier functions is often challenging, the talk introduces a design approach inspired by reference governor theory, combining dynamic safety margins with CBF-based enforcement. Simple illustrative examples, such as an inverted pendulum on a cart, are used throughout.
 
-**Key Publications**
+**Recommended References**
 
-[1] A. D. Ames, X. Xu, J. W. Grizzle, and P. Tabuada,  
-"Control Barrier Function Based Quadratic Programs for Safety Critical Systems,"  
-*IEEE Transactions on Automatic Control*, 2017.
+[1] V. Freire and M. M. Nicotra, "[Using Dynamic Safety Margins as Control Barrier Functions](https://doi.org/10.48550/arXiv.2404.01445)," arXiv:2404.01445, 2024.
 
-[2] A. D. Ames, S. Coogan, M. Egerstedt, et al.,  
-"Control Barrier Functions: Theory and Applications,"  
-*European Control Conference*, 2019.
-
-**Software and Code**
-
-• Hybrid Robotics CBF Toolbox  
-https://github.com/HybridRobotics/cbf
-
-• MATLAB examples  
-https://github.com/HybridRobotics/cbf-examples
+[2] V. Freire and M. M. Nicotra, "[Designing Control Barrier Functions Using a Dynamic Backup Policy](https://doi.org/10.48550/arXiv.2510.09810)," arXiv:2510.09810, 2025.
 
 ---
 
@@ -161,6 +149,16 @@ https://github.com/HybridRobotics/cbf-examples
 **Kunal Garg — Arizona State University**
 
 Ensuring provable safety guarantees while maintaining scalability for large-scale multi-agent systems remains a major challenge. This tutorial-style talk surveys recent advances in safe control and learning-based approaches, including methods based on learning CBFs and their extensions to multi-agent settings such as graph CBFs. Theoretical guarantees, training frameworks, experimental results, and open challenges—particularly when machine learning components are involved—are discussed.
+
+**Recommended References**
+
+[1] S. Zhang, O. So, K. Garg, and C. Fan, "[GCBF+: A Neural Graph Control Barrier Function Framework for Distributed Safe Multiagent Control](https://doi.org/10.1109/TRO.2025.3530348)," *IEEE Transactions on Robotics*, vol. 41, pp. 1533–1552, 2025.
+
+[2] K. Garg, S. Zhang, O. So, C. Dawson, and C. Fan, "[Learning Safe Control for Multi-Robot Systems: Methods, Verification, and Open Challenges](https://doi.org/10.1016/j.arcontrol.2024.100948)," *Annual Reviews in Control*, vol. 57, 2024.
+
+[3] K. Garg, S. Zhang, J. Arkin, and C. Fan, "[Foundation Models to the Rescue: Deadlock Resolution in Connected Multi-Robot Systems](https://arxiv.org/abs/2404.06413)," arXiv:2404.06413, 2024.
+
+[4] K. Garg, S. Hamilton, and C. Fan, "[Deadlock Resolution of Connected Multi-Agent Systems using Hierarchical Control](https://doi.org/10.1109/CDC56724.2024.10886421)," *IEEE Conference on Decision and Control (CDC)*, 2024.
 
 ---
 
@@ -183,12 +181,22 @@ This presentation introduces a distributed MPC framework enhanced with Control B
 
 This talk presents systematic CBF-based design strategies for handling complex constraint types, including polytopic obstacles, pointing constraints, and interactions with other spacecraft. A key contribution is the conversion of Constrained Convex Generators into valid CBFs, enabling the controller to encode reachable-set information and constraint feasibility guarantees.
 
+**Recommended References**
+
+[1] H. Matias and D. Silvestre, "[Hybrid Lyapunov and Barrier Function-Based Control with Stabilization Guarantees](https://arxiv.org/abs/2504.09760)," arXiv:2504.09760, 2025.
+
+[2] H. Matias and D. Silvestre, "[Safe Navigation under Uncertain Obstacle Dynamics using Control Barrier Functions and Constrained Convex Generators](https://arxiv.org/abs/2601.07715)," arXiv:2601.07715, 2026.
+
 ---
 
 ### Safe Reinforcement Learning with Guarantees  
-**Mayank Shekhar — Université de Lorraine / CRAN**
+**Mayank Shekhar Jha — Université de Lorraine / CRAN**
 
 Recent advances in Safe Reinforcement Learning for both discrete-time and continuous-time systems are presented. The talk discusses how CBFs can be integrated into reward structures, how safety can be preserved during exploration, and how concepts such as Input-to-State Safety enable risk-aware learning with formal guarantees under input saturation and uncertainty.
+
+**Recommended References**
+
+[1] S. Kanso, M. S. Jha, and D. Theilliol, "Safe Reinforcement Learning Tracking Control Based on Tunable Input-To-State Safe Control Barrier Function," *American Control Conference (ACC)*, Denver, CO, USA, 2025.
 
 ---
 
@@ -197,6 +205,16 @@ Recent advances in Safe Reinforcement Learning for both discrete-time and contin
 
 This talk explores the integration of classical anti-windup schemes with Control Barrier Functions to handle output constraints. The relationship between output-to-input transformations and CBF formulations is highlighted, followed by aerospace simulation results demonstrating the effectiveness of the approach.
 
+**Recommended References**
+
+[1] L. Burlion and H. de Plinval, "[Keeping a Ground Point in the Camera Field of View of a Landing UAV](https://doi.org/10.1109/ICRA.2013.6631426)," *IEEE International Conference on Robotics and Automation (ICRA)*, Karlsruhe, Germany, 2013.
+
+[2] L. Burlion, C. Poussot-Vassal, P. Vuillemin, M. Leitner, and T. Kier, "Longitudinal Manoeuvre Load Control of a Flexible Large-Scale Aircraft," *IFAC World Congress*, Cape Town, South Africa, 2014.
+
+[3] E. Chambon, L. Burlion, and P. Apkarian, "Output to Input Saturation Transformation: Demonstration and Application to Disturbed Linear Systems," *IEEE Conference on Decision and Control (CDC)*, Osaka, Japan, 2015.
+
+[4] E. Chambon, L. Burlion, and P. Apkarian, "[Time-Response Shaping using Output to Input Saturation Transformation](https://doi.org/10.1080/00207179.2017.1346583)," *International Journal of Control*, vol. 91, no. 3, pp. 534–553, 2018.
+
 ---
 
 ### Enforcing Safety under Uncertainty: CBFs for Adaptive and Sensor-Based Flight Control  
@@ -204,12 +222,34 @@ This talk explores the integration of classical anti-windup schemes with Control
 
 This presentation focuses on enforcing safety constraints in aerospace systems operating under significant model uncertainty. Extensions of CBF frameworks are discussed, including integration with adaptive control architectures and sensor-based formulations. Case studies illustrate applications to overactuated and highly nonlinear flight systems.
 
+**Recommended References**
+
+[1] J. Autenrieb and A. Annaswamy, "[Safe and Stable Adaptive Control for a Class of Dynamic Systems](https://doi.org/10.1109/CDC49753.2023.10383779)," *IEEE Conference on Decision and Control (CDC)*, Singapore, pp. 5059–5066, 2023.
+
+[2] P. A. Fisher, J. Autenrieb, and A. M. Annaswamy, "[An Error-Based Safety Buffer for Safe Adaptive Control (Extended Version)](https://arxiv.org/abs/2510.23491)," arXiv:2510.23491, 2026.
+
+[3] J. Autenrieb and H.-S. Shin, "[Sensor-Based Safety-Critical Control Using an Incremental Control Barrier Function Formulation via Reduced-Order Approximate Models](https://doi.org/10.23919/ACC63710.2025.11107913)," *American Control Conference (ACC)*, Denver, CO, USA, pp. 374–381, 2025.
+
 ---
 
 ### From Simulation to Flight: An Ecosystem for Advanced UAV Control  
-**Andrea L’Afflitto — Virginia Tech**
+**Mattia Gramuglia, Andrea L’Afflitto — Virginia Tech**
 
 An open-source ecosystem for programming, testing, and tuning advanced UAV control systems is presented. Based on a high-fidelity PyChrono simulator and a dedicated flight stack, the framework supports constrained and adaptive control designs and enables a direct path from simulation to flight testing.
+
+**Recommended References**
+
+[1] M. Gramuglia, G. M. Kumar, and A. L'Afflitto, "[Two-Layer Adaptive Funnel MRAC with Applications to the Control of Multi-Rotor UAVs](https://doi.org/10.1109/RoMoCo60539.2024.10604361)," *International Workshop on Robot Motion and Control (RoMoCo)*, Poznań, Poland, pp. 31–36, 2024.
+
+[2] M. Gramuglia and A. L'Afflitto, "[A Robust Multi-Constraint Funnel MRAC System With Applications to Autonomous Multi-Rotor UAVs Transporting Payloads Connected by Ropes](https://doi.org/10.2514/6.2026-2204)," *AIAA SciTech Forum*, 2026.
+
+**Software / Code**
+
+• FlightStack (UAV control software stack)  
+https://github.com/andrealaffly/ACSL-flightstack
+
+• UAV Simulator (PyChrono-based simulation framework)  
+https://github.com/andrealaffly/UAV_Sim_PyChrono
 
 ---
 
