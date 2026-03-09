@@ -23,13 +23,7 @@ Please note that **participants must select one pre-conference workshop**, and t
 
 The workshop is strongly education-oriented and particularly intended for **PhD students, advanced Master’s students, early-career researchers, and professionals working in aerospace guidance, navigation, and control (GNC)**.
 
-To support student participation, **limited funding opportunities may be available**, including:
-
-- **European Space Agency (ESA) Academy Student Sponsorship**
-- Potential sponsorship support from the **IEEE Control Systems Society (CSS)**
-- Potential support from **IFAC**
-
-These opportunities aim to facilitate participation of students and early-career researchers interested in safety-critical control methods for aerospace systems.
+To support student participation, support from the **IEEE Control Systems Society (CSS)** is currently pending. If secured, workshop participants will pay a **reduced participation fee of approximately €25–€50**, which will include a **networking dinner event**. No travel or lodging support is envisioned.
 
 Students interested in potential funding opportunities are encouraged to **contact the EuroGNC organizing committee early**.
 
