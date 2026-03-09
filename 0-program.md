@@ -119,7 +119,7 @@ nav: true
 
 - **16:45–17:30**  
   **From Simulation to Flight: An Ecosystem to Program, Test, and Tune Advanced Control Systems for UAVs**  
-  *Andrea L’Afflitto* — Virginia Tech
+  *Mattia Gramuglia, Andrea L’Afflitto* — Virginia Tech
 
 - **17:30–18:15**  
   **Panel Discussion: Future Directions for Control Barrier Functions in Aerospace GNC**  
