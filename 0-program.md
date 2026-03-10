@@ -66,11 +66,6 @@ nav: true
       <td>Invited Tutorial Lectures & Panel Discussion</td>
     </tr>
 
-
-    <tr class="registration">
-      <td>19:00 – 21:00</td>
-      <td>EuroGNC Welcome Reception</td>
-    </tr>
   </tbody>
 </table>
 
