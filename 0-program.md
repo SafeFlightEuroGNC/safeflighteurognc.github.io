@@ -202,13 +202,13 @@ This talk explores the integration of classical anti-windup schemes with Control
 
 **Recommended References**
 
-[1] L. Burlion and H. de Plinval, "[Keeping a Ground Point in the Camera Field of View of a Landing UAV](https://doi.org/10.1109/ICRA.2013.6631426)," *IEEE International Conference on Robotics and Automation (ICRA)*, Karlsruhe, Germany, 2013.
+[1] L. Burlion and H. de Plinval, "[Keeping a Ground Point in the Camera Field of View of a Landing UAV](https://doi.org/10.1109/ICRA.2013.6631405)," *IEEE International Conference on Robotics and Automation (ICRA)*, Karlsruhe, Germany, 2013.
 
-[2] L. Burlion, C. Poussot-Vassal, P. Vuillemin, M. Leitner, and T. Kier, "Longitudinal Manoeuvre Load Control of a Flexible Large-Scale Aircraft," *IFAC World Congress*, Cape Town, South Africa, 2014.
+[2] L. Burlion, C. Poussot-Vassal, P. Vuillemin, M. Leitner, and T. Kier, "[Longitudinal Manoeuvre Load Control of a Flexible Large-Scale Aircraft](https://doi.org/10.3182/20140824-6-ZA-1003.01588)," *IFAC World Congress*, Cape Town, South Africa, 2014.
 
 [3] E. Chambon, L. Burlion, and P. Apkarian, "Output to Input Saturation Transformation: Demonstration and Application to Disturbed Linear Systems," *IEEE Conference on Decision and Control (CDC)*, Osaka, Japan, 2015.
 
-[4] E. Chambon, L. Burlion, and P. Apkarian, "[Time-Response Shaping using Output to Input Saturation Transformation](https://doi.org/10.1080/00207179.2017.1346583)," *International Journal of Control*, vol. 91, no. 3, pp. 534–553, 2018.
+[4] E. Chambon, L. Burlion, and P. Apkarian, "[Time-Response Shaping using Output to Input Saturation Transformation](https://doi.org/10.1080/00207179.2017.1286043)," *International Journal of Control*, vol. 91, no. 3, pp. 534–553, 2018.
 
 ---
 
