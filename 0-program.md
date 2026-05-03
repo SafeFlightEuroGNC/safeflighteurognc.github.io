@@ -62,8 +62,8 @@ nav: true
     </tr>
 
     <tr>
-      <td>16:00 – 18:15</td>
-      <td>Invited Tutorial Lectures & Panel Discussion</td>
+      <td>16:00 – 17:30</td>
+      <td>Invited Tutorial Lectures</td>
     </tr>
 
   </tbody>
@@ -116,12 +116,6 @@ nav: true
   **From Simulation to Flight: An Ecosystem to Program, Test, and Tune Advanced Control Systems for UAVs**  
   *Mattia Gramuglia, Andrea L’Afflitto* — Virginia Tech
 
-- **17:30–18:15**  
-  **Panel Discussion: Future Directions for Control Barrier Functions in Aerospace GNC**  
-  *Moderator:* To be determined  
-  *Panelists:* Academia & industry
-
-*Registration for the conference runs in parallel from 17:30 onward.*
 
 ---
 
