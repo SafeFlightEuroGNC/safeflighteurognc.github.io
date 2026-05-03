@@ -63,7 +63,7 @@ nav: true
 
     <tr>
       <td>16:00 – 17:30</td>
-      <td>Invited Tutorial Lectures</td>
+      <td>Invited Tutorial Lectures (Session IV)</td>
     </tr>
 
   </tbody>
