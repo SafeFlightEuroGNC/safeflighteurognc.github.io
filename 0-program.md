@@ -109,7 +109,7 @@ nav: true
 - **15:30–16:00** — **Afternoon Coffee Break**  
 
 - **16:00–16:45**  
-  **Enforcing Safety under Uncertainty: Control Barrier Functions for Adaptive and Sensor-Based Flight Control Systems**  
+  **Enforcing Safety under Uncertainty: Control Barrier Functions for Adaptive Flight Control Systems**  
   *Johannes Autenrieb, Peter A. Fisher, Anuradha Annaswamy*  — German Aerospace Center (DLR) & Massachusetts Institute of Technology (MIT)
 
 - **16:45–17:30**  
@@ -212,10 +212,10 @@ This talk explores the integration of classical anti-windup schemes with Control
 
 ---
 
-### Enforcing Safety under Uncertainty: CBFs for Adaptive and Sensor-Based Flight Control  
+### Enforcing Safety under Uncertainty: CBFs for Adaptive Flight Control  
 **Johannes Autenrieb, Peter A. Fisher, Anuradha Annaswamy  — German Aerospace Center (DLR) & Massachusetts Institute of Technology (MIT)**
 
-This presentation focuses on enforcing safety constraints in aerospace systems operating under significant model uncertainty. Extensions of CBF frameworks are discussed, including integration with adaptive control architectures and sensor-based formulations. Case studies illustrate applications to overactuated and highly nonlinear flight systems.
+This presentation focuses on enforcing safety constraints in aerospace systems operating under significant model uncertainty. Extensions of CBF frameworks are discussed, including integration with adaptive control architectures. Case studies illustrate applications to highly nonlinear flight systems.
 
 **Recommended References**
 
@@ -223,7 +223,6 @@ This presentation focuses on enforcing safety constraints in aerospace systems o
 
 [2] P. A. Fisher, J. Autenrieb, and A. M. Annaswamy, "[An Error-Based Safety Buffer for Safe Adaptive Control (Extended Version)](https://arxiv.org/abs/2510.23491)," arXiv:2510.23491, 2026.
 
-[3] J. Autenrieb and H.-S. Shin, "[Sensor-Based Safety-Critical Control Using an Incremental Control Barrier Function Formulation via Reduced-Order Approximate Models](https://doi.org/10.23919/ACC63710.2025.11107913)," *American Control Conference (ACC)*, Denver, CO, USA, pp. 374–381, 2025.
 
 ---
 
