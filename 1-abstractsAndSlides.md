@@ -84,6 +84,8 @@ Recent advances in Safe Reinforcement Learning for both discrete-time and contin
 
 This talk explores the integration of classical anti-windup schemes with Control Barrier Functions to handle output constraints. The relationship between output-to-input transformations and CBF formulations is highlighted, followed by aerospace simulation results demonstrating the effectiveness of the approach.
 
+[Open slides as PDF](/Slides/BURLION_EurpGNC_2026_CBF.pdf)
+
 **Recommended References**
 
 [1] L. Burlion and H. de Plinval, "[Keeping a Ground Point in the Camera Field of View of a Landing UAV](https://doi.org/10.1109/ICRA.2013.6631405)," *IEEE International Conference on Robotics and Automation (ICRA)*, Karlsruhe, Germany, 2013.
@@ -115,6 +117,8 @@ This presentation focuses on enforcing safety constraints in aerospace systems o
 **Mattia Gramuglia, Andrea L’Afflitto — Virginia Tech**
 
 An open-source ecosystem for programming, testing, and tuning advanced UAV control systems is presented. Based on a high-fidelity PyChrono simulator and a dedicated flight stack, the framework supports constrained and adaptive control designs and enables a direct path from simulation to flight testing.
+
+[Open slides as PDF](/Slides/Gramuglia_EuroGNC_2026_CBF.pdf)
 
 **Recommended References**
 
