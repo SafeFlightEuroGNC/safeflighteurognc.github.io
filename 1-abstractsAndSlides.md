@@ -25,8 +25,6 @@ This talk provides a concise overview of the theoretical foundations of Control 
 
 Ensuring provable safety guarantees while maintaining scalability for large-scale multi-agent systems remains a major challenge. This tutorial-style talk surveys recent advances in safe control and learning-based approaches, including methods based on learning CBFs and their extensions to multi-agent settings such as graph CBFs. Theoretical guarantees, training frameworks, experimental results, and open challenges—particularly when machine learning components are involved—are discussed.
 
-[Open slides as PDF](/Slides/Freire_EuroGNC_2026_CBF_Workshop.pdf)
-
 **Recommended References**
 
 [1] S. Zhang, O. So, K. Garg, and C. Fan, "[GCBF+: A Neural Graph Control Barrier Function Framework for Distributed Safe Multiagent Control](https://doi.org/10.1109/TRO.2025.3530348)," *IEEE Transactions on Robotics*, vol. 41, pp. 1533–1552, 2025.
@@ -44,12 +42,16 @@ Ensuring provable safety guarantees while maintaining scalability for large-scal
 
 This talk addresses the long-standing challenge of designing Control Barrier Functions using convex optimization techniques. By parameterizing CBFs and feedback controllers in a structured way, infinite and non-convex invariance conditions can be relaxed into tractable optimization problems. Extensions to nonlinear systems, uncertainty, noise, input constraints, and high-relative-degree dynamics are presented.
 
+[Open slides as PDF](/Slides/Wang_EuroGNC_CBF_Workshop.pdf)
+
 ---
 
 ## Safety-Critical Multi-UAV Cooperative Guidance via Distributed MPC and CBFs  
 **Hyo-Sang Shin — KAIST / Cranfield University**
 
 This presentation introduces a distributed MPC framework enhanced with Control Barrier Functions for safety-critical cooperative guidance of multi-UAV systems. Using ADMM-based decomposition, the approach enables scalable onboard implementation with limited information exchange. CBF constraints ensure collision avoidance and forward invariance while preserving near-optimal performance.
+
+[Open slides as PDF](/Slides/Shin_EuroGNC_2026_CBF_Workshop.pdf)
 
 ---
 
