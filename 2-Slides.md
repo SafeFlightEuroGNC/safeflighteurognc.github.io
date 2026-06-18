@@ -18,7 +18,7 @@ The slides are provided as PDF files. Where supported by the browser, the slide 
 [Open slides as PDF](/assets/slides/freire_nicotra_dynamic_safety_margins.pdf)
 
 <iframe src="/assets/slides/freire_nicotra_dynamic_safety_margins.pdf" width="100%" height="650px">
-    This browser does not support embedded PDFs. Please use the link above to open the slides.
+This browser does not support embedded PDFs. Please use the link above to open the slides.
 </iframe>
 
 ---
@@ -30,7 +30,7 @@ The slides are provided as PDF files. Where supported by the browser, the slide 
 [Open slides as PDF](/assets/slides/garg_scalable_safe_control_design.pdf)
 
 <iframe src="/assets/slides/garg_scalable_safe_control_design.pdf" width="100%" height="650px">
-    This browser does not support embedded PDFs. Please use the link above to open the slides.
+This browser does not support embedded PDFs. Please use the link above to open the slides.
 </iframe>
 
 ---
@@ -42,7 +42,7 @@ The slides are provided as PDF files. Where supported by the browser, the slide 
 [Open slides as PDF](/assets/slides/wang_margellos_papachristodoulou_convex_optimisation.pdf)
 
 <iframe src="/assets/slides/wang_margellos_papachristodoulou_convex_optimisation.pdf" width="100%" height="650px">
-    This browser does not support embedded PDFs. Please use the link above to open the slides.
+This browser does not support embedded PDFs. Please use the link above to open the slides.
 </iframe>
 
 ---
@@ -54,7 +54,7 @@ The slides are provided as PDF files. Where supported by the browser, the slide 
 [Open slides as PDF](/assets/slides/shin_multi_uav_cooperative_guidance.pdf)
 
 <iframe src="/assets/slides/shin_multi_uav_cooperative_guidance.pdf" width="100%" height="650px">
-    This browser does not support embedded PDFs. Please use the link above to open the slides.
+This browser does not support embedded PDFs. Please use the link above to open the slides.
 </iframe>
 
 ---
@@ -66,7 +66,7 @@ The slides are provided as PDF files. Where supported by the browser, the slide 
 [Open slides as PDF](/assets/slides/silvestre_safe_gnc_spacecraft_constraints.pdf)
 
 <iframe src="/assets/slides/silvestre_safe_gnc_spacecraft_constraints.pdf" width="100%" height="650px">
-    This browser does not support embedded PDFs. Please use the link above to open the slides.
+This browser does not support embedded PDFs. Please use the link above to open the slides.
 </iframe>
 
 ---
@@ -78,7 +78,7 @@ The slides are provided as PDF files. Where supported by the browser, the slide 
 [Open slides as PDF](/assets/slides/jha_safe_reinforcement_learning.pdf)
 
 <iframe src="/assets/slides/jha_safe_reinforcement_learning.pdf" width="100%" height="650px">
-    This browser does not support embedded PDFs. Please use the link above to open the slides.
+This browser does not support embedded PDFs. Please use the link above to open the slides.
 </iframe>
 
 ---
@@ -90,7 +90,7 @@ The slides are provided as PDF files. Where supported by the browser, the slide 
 [Open slides as PDF](/assets/slides/burlion_anti_windup_control_barrier_functions.pdf)
 
 <iframe src="/assets/slides/burlion_anti_windup_control_barrier_functions.pdf" width="100%" height="650px">
-    This browser does not support embedded PDFs. Please use the link above to open the slides.
+This browser does not support embedded PDFs. Please use the link above to open the slides.
 </iframe>
 
 ---
@@ -102,7 +102,7 @@ The slides are provided as PDF files. Where supported by the browser, the slide 
 [Open slides as PDF](/assets/slides/autenrieb_fisher_annaswamy_safety_under_uncertainty.pdf)
 
 <iframe src="/assets/slides/autenrieb_fisher_annaswamy_safety_under_uncertainty.pdf" width="100%" height="650px">
-    This browser does not support embedded PDFs. Please use the link above to open the slides.
+This browser does not support embedded PDFs. Please use the link above to open the slides.
 </iframe>
 
 ---
@@ -114,13 +114,7 @@ The slides are provided as PDF files. Where supported by the browser, the slide 
 [Open slides as PDF](/assets/slides/gramuglia_lafflitto_simulation_to_flight.pdf)
 
 <iframe src="/assets/slides/gramuglia_lafflitto_simulation_to_flight.pdf" width="100%" height="650px">
-    This browser does not support embedded PDFs. Please use the link above to open the slides.
+This browser does not support embedded PDFs. Please use the link above to open the slides.
 </iframe>
 
 ---
-
-## Notes
-
-The slide material is shared for educational purposes in the context of the EuroGNC 2026 pre-conference workshop.
-
-Please respect the intellectual property of the speakers. If you would like to cite or reuse material from the slides, please contact the respective speaker directly.
