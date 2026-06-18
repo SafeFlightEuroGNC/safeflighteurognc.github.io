@@ -1,9 +1,9 @@
 ---
-title: Speakers
+title: Contributors
 nav: true
 ---
 
-# Speakers
+# Contributors
 
 ---
 
