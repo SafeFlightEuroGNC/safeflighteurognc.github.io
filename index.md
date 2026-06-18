@@ -1,5 +1,6 @@
 ---
-## title: Home
+title: Home
+---
 
 # Control Barrier Functions in Aerospace: From Foundations to Real-World Applications
 
