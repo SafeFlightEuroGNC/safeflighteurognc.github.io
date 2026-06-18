@@ -1,70 +1,45 @@
 ---
-title: Home
----
+## title: Home
 
 # Control Barrier Functions in Aerospace: From Foundations to Real-World Applications
-## Pre-Conference Tutorial Workshop at CEAS EuroGNC 2026 in Madrid, Spain 
 
-Control Barrier Functions (CBFs) have emerged as a powerful framework for enforcing safety and state constraints in control systems, offering rigorous guarantees on constraint satisfaction and forward invariance. While CBF-based methods are now well established in the control theory community, their systematic adoption in aerospace applications remains limited, despite clear relevance to problems such as flight envelope protection, geofencing, collision avoidance, and autonomy.
+## Pre-Conference Tutorial Workshop at CEAS EuroGNC 2026 in Madrid, Spain
+
+The tutorial workshop **“Control Barrier Functions in Aerospace: From Foundations to Real-World Applications”** was held on **May 4, 2026**, as a pre-conference workshop of **CEAS EuroGNC 2026** at **Universidad Carlos III de Madrid, Spain**.
+
+The workshop brought together researchers and practitioners from control theory and aerospace engineering to discuss the role of **Control Barrier Functions (CBFs)** in safety-critical aerospace guidance, navigation, and control. The program combined foundational theory with application-driven perspectives, covering topics such as flight envelope protection, collision avoidance, safe multi-agent coordination, constraint enforcement under uncertainty, safe learning, and simulation-to-flight workflows.
+
+*This website remains available as an open-access post-workshop resource for participants and for members of the wider aerospace GNC community who were not able to attend the event.* It collects information on the talks, including abstracts, recommended references, speaker information, and presentation slides. In the foreseeable future, recorded videos of the talks are also intended to be made available where possible.
 
 <p align=center>
 <img src="https://safeflighteurognc.github.io/images/quadcopter_3D_2D.gif" alt="Quadcopter_Example" height=200px>
 </p>
 
-This tutorial workshop aims to bridge this gap by providing an accessible yet rigorous introduction to Control Barrier Functions and their application to safety-critical aerospace systems. The program combines foundational theory with application-driven perspectives, highlighting practical design methodologies, implementation challenges, and pathways toward real-world deployment.
+---
 
-The workshop brings together leading researchers and practitioners from control theory and aerospace engineering, fostering cross-disciplinary exchange and discussion on open challenges, certification aspects, and future directions for CBF-based guidance, navigation, and control across both aeronautical and space systems.
+## Workshop Summary
+
+Control Barrier Functions have emerged as a powerful framework for enforcing safety and state constraints in control systems, offering rigorous guarantees on constraint satisfaction and forward invariance. While CBF-based methods are well established in the control theory community, their systematic adoption in aerospace applications remains an active and important area of research.
+
+The workshop addressed this gap by providing an accessible yet rigorous introduction to CBFs and their application to safety-critical aerospace systems. The invited lectures covered both methodological developments and aerospace-oriented applications, including:
+
+* core concepts and theoretical foundations of Control Barrier Functions,
+* systematic design of CBFs and safety filters using optimization-based approaches,
+* safety-critical flight and space system applications,
+* flight envelope protection and actuator-constrained control,
+* collision avoidance and multi-agent safety,
+* safe reinforcement learning with formal guarantees,
+* CBF-based control under uncertainty, and
+* simulation-to-flight workflows for advanced UAV control.
 
 ---
 
-## Workshop Details
+## Contact
 
-- **Date:** May 4, 2026  
-- **Time:** 09:00–18:15 CEST  
-- **Location:** Universidad Carlos III de Madrid  
-- **Format:** Hybrid (in-person and virtual participation)
+For questions related to the workshop website or shared material, please contact:
 
----
+**Johannes Autenrieb**
+German Aerospace Center (DLR)
+[johannes.autenrieb@dlr.de](mailto:johannes.autenrieb@dlr.de)
 
-## Objectives
-
-The main objectives of the tutorial workshop are to:
-
-- **Provide an educational foundation** on Control Barrier Functions, with emphasis on safety-critical aerospace applications.
-- **Equip participants with practical insights** into the design, implementation, and analysis of CBF-based controllers for constrained guidance and control problems.
-- **Highlight open challenges** related to uncertainty, actuator limitations, scalability, and certification.
-- **Foster community building** by bringing together researchers, industry engineers, and practitioners from the guidance, navigation, and control community.
-
-The workshop is intended for graduate students, academic researchers, and **engineers from industry** working in guidance, navigation, and control, including applications in aircraft, autonomous aerial systems, spacecraft, and satellite systems.
-
----
-
-## Topics and Program Overview
-
-The workshop program combines foundational theory with application-oriented perspectives on Control Barrier Functions in aerospace. Invited lectures address both methodological developments and practical case studies, including:
-
-- Core concepts and theoretical foundations of Control Barrier Functions  
-- Systematic design of safety filters using optimization-based approaches  
-- Safety-critical flight and space system applications, including flight envelope protection and collision avoidance  
-- Safety for multi-agent systems in distributed control architectures  
-- Constraint enforcement under uncertainty and actuator limitations  
-
-The program concludes with a panel discussion highlighting open challenges and future directions for Control Barrier Functions in aerospace guidance, navigation, and control.
-
-A detailed schedule and speaker information are available on the  
-**[Program page](https://safeflighteurognc.github.io/0-program.html)**.
-
----
-
-## Organization and Contact
-
-For questions related to the tutorial workshop, please contact:
-
-**Johannes Autenrieb**  
-German Aerospace Center (DLR)  
-[johannes.autenrieb@dlr.de](johannes.autenrieb@dlr.de).
-
-For organizational questions, please contact the EuroGNC organizing committee and indicate the following in the subject line: *“EuroGNC26: Pre-conference Workshop – ”*.
-
-**EuroGNC 2026 Organizing Committee**  
-[eurognc26@uc3m.es](eurognc26@uc3m.es).
+Please note that the workshop itself has already taken place. This website is maintained as a public information and educational resource.
