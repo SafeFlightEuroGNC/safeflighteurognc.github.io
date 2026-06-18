@@ -42,7 +42,7 @@ Ensuring provable safety guarantees while maintaining scalability for large-scal
 
 This talk addresses the long-standing challenge of designing Control Barrier Functions using convex optimization techniques. By parameterizing CBFs and feedback controllers in a structured way, infinite and non-convex invariance conditions can be relaxed into tractable optimization problems. Extensions to nonlinear systems, uncertainty, noise, input constraints, and high-relative-degree dynamics are presented.
 
-[Open slides as PDF](/Slides/Wang_EuroGNC_CBF_Workshop.pdf)
+[Open slides as PDF](/Slides/Wang_EuroGNC_2026_CBF_Workshop.pdf)
 
 ---
 
