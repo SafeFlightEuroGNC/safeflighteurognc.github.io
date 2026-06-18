@@ -3,9 +3,7 @@ title: Speakers
 nav: true
 ---
 
-# Invited Speakers
-
-The tutorial workshop brings together leading researchers and practitioners from control theory and aerospace engineering. Below is the list of confirmed invited speakers and contributors to the program.
+# Speakers
 
 ---
 
