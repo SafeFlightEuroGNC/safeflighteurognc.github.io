@@ -1,12 +1,11 @@
 ---
-
 title: Slides
 nav: true
 ---------
 
 # Slides
 
-This page provides access to the presentation slides for the pre-conference tutorial workshop **“Control Barrier Functions in Aerospace: From Foundations to Real-World Applications”**.
+This page provides access to the presentation slides of the tutorial workshop **“Control Barrier Functions in Aerospace: From Foundations to Real-World Applications”**.
 
 The slides are provided as PDF files. Where supported by the browser, the slide decks can also be viewed directly on this page using the embedded PDF viewer.
 
