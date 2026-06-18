@@ -103,6 +103,8 @@ This talk explores the integration of classical anti-windup schemes with Control
 
 This presentation focuses on enforcing safety constraints in aerospace systems operating under significant model uncertainty. Extensions of CBF frameworks are discussed, including integration with adaptive control architectures. Case studies illustrate applications to highly nonlinear flight systems.
 
+[Open slides as PDF](/Slides/Autenrieb_EuroGNC_2026_CBF.pdf)
+
 **Recommended References**
 
 [1] J. Autenrieb and A. Annaswamy, "[Safe and Stable Adaptive Control for a Class of Dynamic Systems](https://doi.org/10.1109/CDC49753.2023.10383779)," *IEEE Conference on Decision and Control (CDC)*, Singapore, pp. 5059–5066, 2023.
