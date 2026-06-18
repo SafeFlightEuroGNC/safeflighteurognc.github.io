@@ -3,7 +3,7 @@ title: Abstracts & Slides
 nav: true
 ---
 
-# Abstracts
+# Abstracts & Slides
 
 ## Control Barrier Functions: Theory Overview and How to Design Them Using Dynamic Safety Margins  
 **Victor Freire, Marco Nicotra — University of Colorado Boulder**
