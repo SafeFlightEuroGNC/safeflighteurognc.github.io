@@ -1,5 +1,5 @@
 ---
-title: Abstracts
+title: Abstracts & Slides
 nav: true
 ---
 
@@ -9,6 +9,8 @@ nav: true
 **Victor Freire, Marco Nicotra — University of Colorado Boulder**
 
 This talk provides a concise overview of the theoretical foundations of Control Barrier Functions, including the assumptions required to guarantee safety and constraint satisfaction. It then demonstrates how CBFs can be used to design safe controllers in practice. Recognizing that constructing suitable barrier functions is often challenging, the talk introduces a design approach inspired by reference governor theory, combining dynamic safety margins with CBF-based enforcement. Simple illustrative examples, such as an inverted pendulum on a cart, are used throughout.
+
+[Open slides as PDF](/Slides/Freire_EuroGNC_2026_CBF_Workshop.pdf)
 
 **Recommended References**
 
@@ -22,6 +24,8 @@ This talk provides a concise overview of the theoretical foundations of Control 
 **Kunal Garg — Arizona State University**
 
 Ensuring provable safety guarantees while maintaining scalability for large-scale multi-agent systems remains a major challenge. This tutorial-style talk surveys recent advances in safe control and learning-based approaches, including methods based on learning CBFs and their extensions to multi-agent settings such as graph CBFs. Theoretical guarantees, training frameworks, experimental results, and open challenges—particularly when machine learning components are involved—are discussed.
+
+[Open slides as PDF](/Slides/Freire_EuroGNC_2026_CBF_Workshop.pdf)
 
 **Recommended References**
 
