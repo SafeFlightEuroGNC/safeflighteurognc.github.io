@@ -60,7 +60,7 @@ This presentation introduces a distributed MPC framework enhanced with Control B
 
 This talk presents systematic CBF-based design strategies for handling complex constraint types, including polytopic obstacles, pointing constraints, and interactions with other spacecraft. A key contribution is the conversion of Constrained Convex Generators into valid CBFs, enabling the controller to encode reachable-set information and constraint feasibility guarantees.
 
-[Open slides as PDF](/Slides/Silvestre_EuroGNC_2026_CBF.pdf.pdf)
+[Open slides as PDF](/Slides/Silvestre_EuroGNC_2026_CBF.pdf)
 
 **Recommended References**
 
