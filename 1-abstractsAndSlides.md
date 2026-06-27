@@ -113,7 +113,7 @@ This presentation focuses on enforcing safety constraints in aerospace systems o
 
 [2] P. A. Fisher, J. Autenrieb, and A. M. Annaswamy, "[An Error-Based Safety Buffer for Safe Adaptive Control (Extended Version)](https://arxiv.org/abs/2510.23491)," arXiv:2510.23491, 2026.
 
-[3] J. Autenrieb, P. A. Fisher, and A. M. Annaswamy, "[Robust Safety Filters for Lipschitz-Bounded Adaptive Closed-Loop Systems with Structured Uncertainties](https://arxiv.org/abs/2603.14403)1)," arXiv:2510.14403, 2026.
+[3] J. Autenrieb, P. A. Fisher, and A. M. Annaswamy, "[Robust Safety Filters for Lipschitz-Bounded Adaptive Closed-Loop Systems with Structured Uncertainties](https://arxiv.org/abs/2603.14403)," arXiv:2510.14403, 2026.
 
 ---
 
